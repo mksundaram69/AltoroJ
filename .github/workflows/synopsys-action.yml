@@ -25,7 +25,7 @@ jobs:
         uses: synopsys-sig/synopsys-action@v1.6.0
         with:
           #------------------------------------------COVERITY-----------------------------------------
-          coverity_url: ${{ secrets.mksundaram69/AltoroJ}}
+          coverity_url: ${{ https://github.com/mksundaram69/AltoroJ}}
           coverity_user: ${{ secrets.COVERITY_USER }}
           coverity_passphrase: ${{ secrets.COVERITY_PASSPHRASE }}
 
